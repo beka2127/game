@@ -1,0 +1,9 @@
+# Ignore the dataset
+games.csv
+transformed_games.csv
+advanced_transformed_games.csv
+
+*.pkl
+
+__pycache__/
+.ipynb_checkpoints/
